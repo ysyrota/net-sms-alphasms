@@ -1,2 +1,2 @@
-Net::SMS::AlphaSMS::HTTP - Send SMS messages via the AlphaSMS HTTP API
+Net::SMS::AlphaSMS - Send SMS messages via the AlphaSMS HTTP API
 
